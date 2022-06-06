@@ -1,0 +1,12 @@
+default_context:
+    municipality: "Boston"
+    governing_body_type: "city council"
+    municipality_slug: "boston"
+    python_municipality_slug: "boston"
+    infrastructure_slug: "cdp-boston-c384047b"
+    maintainer_or_org_full_name: "JacksonMaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "boston"
+    hosting_github_url: "https://github.com/CouncilDataProject/boston"
+    hosting_web_app_address: "https://councildataproject.github.io/boston"
+    firestore_region: "us-central"
