@@ -1,5 +1,6 @@
 default_context:
     municipality: "Boston"
+    iana_timezone: "America/New_York"
     governing_body_type: "city council"
     municipality_slug: "boston"
     python_municipality_slug: "boston"
