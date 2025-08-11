@@ -1,2 +1,0 @@
-(this["webpackJsonpcdp-boston"]=this["webpackJsonpcdp-boston"]||[]).push([[0],{198:function(e,o){},91:function(e,o,n){"use strict";n.r(o);n(0);var t=n(32),i=n.n(t),s=n(63),c=(n(214),n(56));i.a.render(Object(c.jsx)("div",{children:Object(c.jsx)(s.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-boston-c384047b"},settings:{}},municipality:{name:"Boston",timeZone:"America/New_York",footerLinksSections:[]},features:{}},children:Object(c.jsx)(s.App,{})})}),document.getElementById("root"))}},[[91,1,2]]]);
-//# sourceMappingURL=main.a6acd16b.chunk.js.map
